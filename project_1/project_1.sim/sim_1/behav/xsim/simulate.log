@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+**************************************************
+***********      Simulation Start      ***********
+**************************************************
+
+
+There are total   0 errors in FIFO  !!
+
+
+There are total   0 errors in LIFO  !!
+
+
+There are total   0 errors in FIFO2 !!
+
+
+        ****************************               
+        **                        **       |__||  
+        **  Congratulations!!     **      / O.O  | 
+        **                        **    /_____   | 
+        **  Simulation PASS!!     **   /^ ^ ^ \  |
+        **                        **  |^ ^ ^ ^ |w| 
+        ****************************   \m___m__|_|
+
+        Correct / Total :   100 / 100  
+
+
+$finish called at time : 1035 ns : File "C:/Users/An/Desktop/數位IC設計/HW2/ref/tb.sv" Line 300
